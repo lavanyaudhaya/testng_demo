@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test_LaunchBrowser(failed)">
+    <classes>
+      <class name="com.testNg_runnerclass.RunnerClass_TestNGDemo">
+        <methods>
+          <include name="urlLaunch"/>
+          <include name="privacyPolicyRadButton"/>
+          <include name="browserLaunch"/>
+          <include name="user_Data"/>
+          <include name="agreeContButton"/>
+          <include name="quit"/>
+          <include name="newsLetterChkBox"/>
+        </methods>
+      </class> <!-- com.testNg_runnerclass.RunnerClass_TestNGDemo -->
+    </classes>
+  </test> <!-- Test_LaunchBrowser(failed) -->
+</suite> <!-- Failed suite [Suite_1] -->
