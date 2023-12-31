@@ -48,6 +48,7 @@ public void urlLaunch() throws InterruptedException {
  public void privacyPolicyRadButton() {
 	
 	 clickElement(pom_element.getSignup_Pom1().getPrivacyPolicyCheckBox());
+	 
  }
  
  @Test(priority = 4)
@@ -60,6 +61,7 @@ public void urlLaunch() throws InterruptedException {
  public void takePicture() throws IOException, InterruptedException {
 	 Thread.sleep(3000);
 	 takeScreenShot("NinjaSignUp");
+	 System.out.println("Screenshot captured");
  }
  @AfterTest
  public void quit() {

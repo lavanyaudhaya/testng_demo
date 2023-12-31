@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-29T23:04:10 IST" name="Suite_NinjaTutorial" finished-at="2023-12-29T23:04:34 IST" duration-ms="23628">
+  <suite started-at="2023-12-31T23:32:59 IST" name="Suite_NinjaTutorial" finished-at="2023-12-31T23:33:28 IST" duration-ms="29314">
     <groups>
     </groups>
-    <test started-at="2023-12-29T23:04:10 IST" name="Test_Ninja" finished-at="2023-12-29T23:04:34 IST" duration-ms="23628">
+    <test started-at="2023-12-31T23:32:59 IST" name="Test_Ninja" finished-at="2023-12-31T23:33:28 IST" duration-ms="29314">
       <class name="com.testNg_runnerclass.RunnerClass_TestNGDemo">
-        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:10 IST" name="browserLaunch" finished-at="2023-12-29T23:04:14 IST" duration-ms="3906" status="PASS">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:32:59 IST" name="browserLaunch" finished-at="2023-12-31T23:33:08 IST" duration-ms="8850" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserLaunch -->
-        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:14 IST" name="urlLaunch" finished-at="2023-12-29T23:04:20 IST" duration-ms="5937" status="PASS">
+        <test-method is-config="true" signature="urlLaunch()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:08 IST" name="urlLaunch" finished-at="2023-12-31T23:33:15 IST" duration-ms="6616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- urlLaunch -->
-        <test-method signature="user_Data()[pri:1, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:20 IST" name="user_Data" finished-at="2023-12-29T23:04:21 IST" duration-ms="477" status="PASS">
+        <test-method signature="user_Data()[pri:1, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:15 IST" name="user_Data" finished-at="2023-12-31T23:33:15 IST" duration-ms="561" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- user_Data -->
-        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:21 IST" name="takePicture" finished-at="2023-12-29T23:04:24 IST" duration-ms="3172" status="PASS">
+        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:15 IST" name="takePicture" finished-at="2023-12-31T23:33:18 IST" duration-ms="3199" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takePicture -->
-        <test-method signature="newsLetterChkBox()[pri:2, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:24 IST" name="newsLetterChkBox" finished-at="2023-12-29T23:04:24 IST" duration-ms="82" status="PASS">
+        <test-method signature="newsLetterChkBox()[pri:2, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:18 IST" name="newsLetterChkBox" finished-at="2023-12-31T23:33:18 IST" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newsLetterChkBox -->
-        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:24 IST" name="takePicture" finished-at="2023-12-29T23:04:27 IST" duration-ms="3142" status="PASS">
+        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:18 IST" name="takePicture" finished-at="2023-12-31T23:33:22 IST" duration-ms="3159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takePicture -->
-        <test-method signature="privacyPolicyRadButton()[pri:3, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:27 IST" name="privacyPolicyRadButton" finished-at="2023-12-29T23:04:27 IST" duration-ms="71" status="PASS">
+        <test-method signature="privacyPolicyRadButton()[pri:3, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:22 IST" name="privacyPolicyRadButton" finished-at="2023-12-31T23:33:22 IST" duration-ms="92" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- privacyPolicyRadButton -->
-        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:27 IST" name="takePicture" finished-at="2023-12-29T23:04:30 IST" duration-ms="3162" status="PASS">
+        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:22 IST" name="takePicture" finished-at="2023-12-31T23:33:25 IST" duration-ms="3136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takePicture -->
-        <test-method signature="agreeContButton()[pri:4, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:30 IST" name="agreeContButton" finished-at="2023-12-29T23:04:30 IST" duration-ms="336" status="PASS">
+        <test-method signature="agreeContButton()[pri:4, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:25 IST" name="agreeContButton" finished-at="2023-12-31T23:33:25 IST" duration-ms="274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- agreeContButton -->
-        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:30 IST" name="takePicture" finished-at="2023-12-29T23:04:34 IST" duration-ms="3169" status="PASS">
+        <test-method is-config="true" signature="takePicture()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:25 IST" name="takePicture" finished-at="2023-12-31T23:33:28 IST" duration-ms="3134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takePicture -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-29T23:04:34 IST" name="quit" finished-at="2023-12-29T23:04:34 IST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.testNg_runnerclass.RunnerClass_TestNGDemo@3de8f619]" started-at="2023-12-31T23:33:28 IST" name="quit" finished-at="2023-12-31T23:33:28 IST" duration-ms="144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->

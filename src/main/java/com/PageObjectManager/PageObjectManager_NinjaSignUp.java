@@ -17,6 +17,7 @@ public class PageObjectManager_NinjaSignUp extends BaseClass_TesNgDemo{
 	public PageObjectManager_NinjaSignUp getPageObjectManager_NinjaSignUp() {
 		ninja_Pom=new PageObjectManager_NinjaSignUp();
 		return ninja_Pom;
+		
 	}
 }
 
